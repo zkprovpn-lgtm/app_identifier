@@ -3,7 +3,7 @@
     "package_name": "com.erwan.protection",
     "payment": "true",
     "allow_root": "false",
-    "allow_screenshoot": "false",
+    "allow_screenshoot": "true",
     "version": "1.0",
     "versionCode": 1,
     "apk_url": "https://github.com/zkprovpn-lgtm/app_identifier/raw/refs/heads/main/app-release.apk",
