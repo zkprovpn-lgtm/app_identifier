@@ -1,6 +1,6 @@
 {
     "app_name": "SD Protect",
-    "package_name": "com.erwan.protections",
+    "package_name": "com.erwan.protection",
     "payment": "true",
     "allow_root": "false",
     "allow_screenshoot": "true",
