@@ -6,7 +6,7 @@
     "allow_screenshoot": "true",
     "version": "1.0",
     "versionCode": 1,
-    "apk_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/app/latest.apk",
+    "apk_url": "https://github.com/zkprovpn-lgtm/app_identifier/raw/refs/heads/main/app-release.apk",
     "update_required": false,
     "release_notes": [
     "Bug fixes",
